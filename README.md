@@ -50,4 +50,4 @@ Es una **hoja de estilos** que ayuda al diseño de una página web, modifica tod
 
 Es una aplicación/programa que permite el acceso web, esto hace que tú puedas entrar a diferentes páginas web mediante tu búsqueda. El navegador traduce/lee toda la codificación de un **lenguaje de marcas** y lo interpreta para que el usuario pueda ver la web.
 
-[TextoAlternativo](https://github.com/jesusfortea/0373-A2-JesusFortea/blob/main/esquemadepeticiones.jpg "Esquema de peticiones")
+[TextoAlternativo](https://github.com/jesusfortea/0373-A2-JesusFortea/blob/main/esquemadepeticiones.png "Esquema de peticiones")
