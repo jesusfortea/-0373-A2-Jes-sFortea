@@ -42,7 +42,7 @@ Es un lenguaje de marcas que se utiliza para crear páginas web mediante **etiqu
 ```
 _Figura 1: Estructura de código HTML_
 
-## 5. ¿Qué es CSS?
+## 5. ¿Qué es ```CSS```?
 
 Es una **hoja de estilos** que ayuda al diseño de una página web, modifica todo tipo de estilo dentro de ella para mejorar la visualización y la modificación de la estructura de un **html**.
 
